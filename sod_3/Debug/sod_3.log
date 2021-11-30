@@ -1,0 +1,17 @@
+﻿  sod_3.cpp
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(89,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(106,14): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(170,24): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(195,24): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(235,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(294,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(350,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(364,23): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(338,9): warning C4101: newNum: неиспользованная локальная переменная
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(353,9): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(340,9): warning C4101: numIndex2: неиспользованная локальная переменная
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(432,27): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(433,27): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(519,16): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\Иринна\source\repos\sod_3\sod_3\sod_3.cpp(520,16): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+  sod_3.vcxproj -> C:\Users\Иринна\source\repos\sod_3\Debug\sod_3.exe
